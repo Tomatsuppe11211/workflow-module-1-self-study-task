@@ -1,0 +1,28 @@
+{
+  "name": "workflow-module-1-self-study-task",
+  "version": "1.0.0",
+  "description": "THis is my self study assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomatsuppe11211/workflow-module-1-self-study-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomatsuppe11211/workflow-module-1-self-study-task/issues"
+  },
+  "homepage": "https://github.com/Tomatsuppe11211/workflow-module-1-self-study-task#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}
