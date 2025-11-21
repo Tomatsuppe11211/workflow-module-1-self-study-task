@@ -24,5 +24,14 @@
   },
   "dependencies": {
     "prettier": "^3.6.2"
+  },
+  "lint-staged": {
+    "*js": [
+      "prettier --write",
+      "eslint --fix"
+    ],
+    "*html": [
+      "prettier --write"
+    ]
   }
 }
